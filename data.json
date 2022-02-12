@@ -1,0 +1,36 @@
+{
+    "hostname": "servicio.ca",
+    "db_port": 5433,
+    "db_name": "postgres",
+    "db_user": "postgres",
+    "db_password": "abc123",
+    
+    "sta_ssid": "CLARO1_8D831B",
+    "sta_password": "606s2wxuxM",
+
+    "ap_ssid": "Estacion_1",
+    "ap_password": "87654321",
+    
+    "Vx1": 31423,
+    "Vx2": 20951,
+    "Gx1": 9.800001,
+    "Gx2": -9.800001,
+    
+    "Vy1": 30890,
+    "Vy2": 20399,
+    "Gy1": 9.800001,
+    "Gy2": -9.800001,
+    
+    "Vz1": 31453,
+    "Vz2": 21187,
+    "Gz1": 9.800001,
+    "Gz2": -9.800001,
+    
+    "Vc1": 670,
+    "Vc2": 3200,
+    "Pc1": 400,
+    "Pc2": 3000
+}
+
+
+
